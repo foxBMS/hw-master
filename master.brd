@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="6.25" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="3.125" altunitdist="mil" altunit="mil"/>
+<grid distance="12.5" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="6.25" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -8073,170 +8073,170 @@ Your Multi-CB Team
 <attribute name="UTMAX" value="85°C" x="109.69625" y="-21.9075" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="107.47375" y="-17.78" size="0.7112" layer="25" font="vector" rot="R180" align="center"/>
 </element>
-<element name="F1001" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="630MA_UMT" x="53.18125" y="-31.4325" smashed="yes" rot="R90">
-<attribute name="UPV" value="500mW" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="F1001" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="4,00A_UMT" x="53.18125" y="-31.4325" smashed="yes" rot="R90">
+<attribute name="UPV" value="2,00W" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UKAT" value="I" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UIS_AC" value="200A" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="HERSTELLER" value="Schurter" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PDF-LOCAL" value="file:///C:\Eagle-Datasheet\Sicherungen\UMT_250_Schurter.pdf" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTOL" value="T" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTMIN" value="-55°C" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MARKING" value="T - 0,63A / AC 250V" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MARKING" value="T - 4,00A / AC 250V" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SIZE" value="11,00mm x 3,00mm x 3,00mm" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DNI" value="" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UIS_DC" value="200A" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTYP" value="Thin Film" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DISTRI_2-NR" value="693-3403.0164.11" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DISTRI_2-NR" value="693-3403.0172.11" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTERM" value="Sn" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UVAC" value="250V" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_2-PREIS" value="0,531" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_1" value="Reichelt" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_2" value="Mouser" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HERSTELLER-NR" value="3403.0164.11" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HERSTELLER-NR" value="3403.0172.11" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UMAT" value="Keramik" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DISTRI_1-NR" value="UMT 0,63A" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="UVAL" value="630mA" x="53.18125" y="-31.4325" size="0.6096" layer="27" font="vector" rot="R90" align="center" display="off"/>
-<attribute name="DISTRI_1-PREIS" value="0,37" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DISTRI_1-NR" value="UMT 4,0A" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="UVAL" value="4,00A" x="53.18125" y="-31.4325" size="0.6096" layer="27" font="vector" rot="R90" align="center" display="off"/>
+<attribute name="DISTRI_1-PREIS" value="0,46" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTMAX" value="125°C" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UVDC" value="125V" x="53.18125" y="-31.4325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="55.88" y="-31.4325" size="0.7112" layer="25" font="vector" rot="R90" align="center"/>
 </element>
-<element name="F1003" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="630MA_UMT" x="53.18125" y="-42.8625" smashed="yes" rot="R90">
-<attribute name="UPV" value="500mW" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="F1003" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="4,00A_UMT" x="53.18125" y="-42.8625" smashed="yes" rot="R90">
+<attribute name="UPV" value="2,00W" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UKAT" value="I" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UIS_AC" value="200A" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="HERSTELLER" value="Schurter" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PDF-LOCAL" value="file:///C:\Eagle-Datasheet\Sicherungen\UMT_250_Schurter.pdf" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTOL" value="T" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTMIN" value="-55°C" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MARKING" value="T - 0,63A / AC 250V" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MARKING" value="T - 4,00A / AC 250V" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SIZE" value="11,00mm x 3,00mm x 3,00mm" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DNI" value="" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UIS_DC" value="200A" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTYP" value="Thin Film" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DISTRI_2-NR" value="693-3403.0164.11" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DISTRI_2-NR" value="693-3403.0172.11" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTERM" value="Sn" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UVAC" value="250V" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_2-PREIS" value="0,531" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_1" value="Reichelt" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_2" value="Mouser" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HERSTELLER-NR" value="3403.0164.11" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HERSTELLER-NR" value="3403.0172.11" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UMAT" value="Keramik" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DISTRI_1-NR" value="UMT 0,63A" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="UVAL" value="630mA" x="53.18125" y="-42.8625" size="0.6096" layer="27" font="vector" rot="R90" align="center" display="off"/>
-<attribute name="DISTRI_1-PREIS" value="0,37" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DISTRI_1-NR" value="UMT 4,0A" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="UVAL" value="4,00A" x="53.18125" y="-42.8625" size="0.6096" layer="27" font="vector" rot="R90" align="center" display="off"/>
+<attribute name="DISTRI_1-PREIS" value="0,46" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTMAX" value="125°C" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UVDC" value="125V" x="53.18125" y="-42.8625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="50.4825" y="-42.8625" size="0.7112" layer="25" font="vector" rot="R90" align="center"/>
 </element>
-<element name="F1005" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="630MA_UMT" x="67.6275" y="-28.73375" smashed="yes">
-<attribute name="UPV" value="500mW" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
+<element name="F1005" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="4,00A_UMT" x="67.6275" y="-28.73375" smashed="yes">
+<attribute name="UPV" value="2,00W" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UKAT" value="I" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UIS_AC" value="200A" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="HERSTELLER" value="Schurter" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="PDF-LOCAL" value="file:///C:\Eagle-Datasheet\Sicherungen\UMT_250_Schurter.pdf" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UTOL" value="T" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UTMIN" value="-55°C" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
-<attribute name="MARKING" value="T - 0,63A / AC 250V" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
+<attribute name="MARKING" value="T - 4,00A / AC 250V" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="SIZE" value="11,00mm x 3,00mm x 3,00mm" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="DNI" value="" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UIS_DC" value="200A" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UTYP" value="Thin Film" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
-<attribute name="DISTRI_2-NR" value="693-3403.0164.11" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
+<attribute name="DISTRI_2-NR" value="693-3403.0172.11" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UTERM" value="Sn" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UVAC" value="250V" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="DISTRI_2-PREIS" value="0,531" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="DISTRI_1" value="Reichelt" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="DISTRI_2" value="Mouser" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
-<attribute name="HERSTELLER-NR" value="3403.0164.11" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
+<attribute name="HERSTELLER-NR" value="3403.0172.11" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UMAT" value="Keramik" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
-<attribute name="DISTRI_1-NR" value="UMT 0,63A" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
-<attribute name="UVAL" value="630mA" x="67.6275" y="-28.73375" size="0.6096" layer="27" font="vector" align="center" display="off"/>
-<attribute name="DISTRI_1-PREIS" value="0,37" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
+<attribute name="DISTRI_1-NR" value="UMT 4,0A" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
+<attribute name="UVAL" value="4,00A" x="67.6275" y="-28.73375" size="0.6096" layer="27" font="vector" align="center" display="off"/>
+<attribute name="DISTRI_1-PREIS" value="0,46" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UTMAX" value="125°C" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="UVDC" value="125V" x="67.6275" y="-28.73375" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="69.69125" y="-31.4325" size="0.7112" layer="25" font="vector" align="center"/>
 </element>
-<element name="F1006" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="630MA_UMT" x="97.94875" y="-26.67" smashed="yes" rot="R90">
-<attribute name="UPV" value="500mW" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="F1006" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="4,00A_UMT" x="97.94875" y="-26.67" smashed="yes" rot="R90">
+<attribute name="UPV" value="2,00W" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UKAT" value="I" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UIS_AC" value="200A" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="HERSTELLER" value="Schurter" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PDF-LOCAL" value="file:///C:\Eagle-Datasheet\Sicherungen\UMT_250_Schurter.pdf" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTOL" value="T" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTMIN" value="-55°C" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MARKING" value="T - 0,63A / AC 250V" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MARKING" value="T - 4,00A / AC 250V" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SIZE" value="11,00mm x 3,00mm x 3,00mm" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DNI" value="" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UIS_DC" value="200A" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTYP" value="Thin Film" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DISTRI_2-NR" value="693-3403.0164.11" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DISTRI_2-NR" value="693-3403.0172.11" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTERM" value="Sn" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UVAC" value="250V" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_2-PREIS" value="0,531" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_1" value="Reichelt" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DISTRI_2" value="Mouser" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HERSTELLER-NR" value="3403.0164.11" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HERSTELLER-NR" value="3403.0172.11" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UMAT" value="Keramik" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DISTRI_1-NR" value="UMT 0,63A" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="UVAL" value="630mA" x="97.94875" y="-26.67" size="0.6096" layer="27" font="vector" rot="R90" align="center" display="off"/>
-<attribute name="DISTRI_1-PREIS" value="0,37" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DISTRI_1-NR" value="UMT 4,0A" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="UVAL" value="4,00A" x="97.94875" y="-26.67" size="0.6096" layer="27" font="vector" rot="R90" align="center" display="off"/>
+<attribute name="DISTRI_1-PREIS" value="0,46" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UTMAX" value="125°C" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="UVDC" value="125V" x="97.94875" y="-26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="95.25" y="-27.305" size="0.7112" layer="25" font="vector" rot="R90" align="center"/>
 </element>
-<element name="F1004" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="630MA_UMT" x="87.63" y="-27.46375" smashed="yes">
-<attribute name="UPV" value="500mW" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
+<element name="F1004" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="4,00A_UMT" x="87.63" y="-27.46375" smashed="yes">
+<attribute name="UPV" value="2,00W" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UKAT" value="I" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UIS_AC" value="200A" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="HERSTELLER" value="Schurter" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="PDF-LOCAL" value="file:///C:\Eagle-Datasheet\Sicherungen\UMT_250_Schurter.pdf" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UTOL" value="T" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UTMIN" value="-55°C" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
-<attribute name="MARKING" value="T - 0,63A / AC 250V" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
+<attribute name="MARKING" value="T - 4,00A / AC 250V" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="SIZE" value="11,00mm x 3,00mm x 3,00mm" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="DNI" value="" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UIS_DC" value="200A" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UTYP" value="Thin Film" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
-<attribute name="DISTRI_2-NR" value="693-3403.0164.11" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
+<attribute name="DISTRI_2-NR" value="693-3403.0172.11" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UTERM" value="Sn" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UVAC" value="250V" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="DISTRI_2-PREIS" value="0,531" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="DISTRI_1" value="Reichelt" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="DISTRI_2" value="Mouser" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
-<attribute name="HERSTELLER-NR" value="3403.0164.11" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
+<attribute name="HERSTELLER-NR" value="3403.0172.11" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UMAT" value="Keramik" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
-<attribute name="DISTRI_1-NR" value="UMT 0,63A" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
-<attribute name="UVAL" value="630mA" x="87.63" y="-27.46375" size="0.6096" layer="27" font="vector" align="center" display="off"/>
-<attribute name="DISTRI_1-PREIS" value="0,37" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
+<attribute name="DISTRI_1-NR" value="UMT 4,0A" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
+<attribute name="UVAL" value="4,00A" x="87.63" y="-27.46375" size="0.6096" layer="27" font="vector" align="center" display="off"/>
+<attribute name="DISTRI_1-PREIS" value="0,46" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UTMAX" value="125°C" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="UVDC" value="125V" x="87.63" y="-27.46375" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="80.48625" y="-29.05125" size="0.7112" layer="25" font="vector" align="center"/>
 </element>
-<element name="F1002" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="630MA_UMT" x="87.63" y="-23.01875" smashed="yes" rot="R180">
-<attribute name="UPV" value="500mW" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="F1002" library="foxBMS_BMS-Master" package="F_SMD_11,00MMX3,00MMX3,00MM_(UMT)_R_SCHURTER_REV01" value="4,00A_UMT" x="87.63" y="-23.01875" smashed="yes" rot="R180">
+<attribute name="UPV" value="2,00W" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UKAT" value="I" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UIS_AC" value="200A" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="HERSTELLER" value="Schurter" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PDF-LOCAL" value="file:///C:\Eagle-Datasheet\Sicherungen\UMT_250_Schurter.pdf" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UTOL" value="T" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UTMIN" value="-55°C" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MARKING" value="T - 0,63A / AC 250V" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MARKING" value="T - 4,00A / AC 250V" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="SIZE" value="11,00mm x 3,00mm x 3,00mm" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DNI" value="" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UIS_DC" value="200A" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UTYP" value="Thin Film" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="DISTRI_2-NR" value="693-3403.0164.11" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DISTRI_2-NR" value="693-3403.0172.11" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UTERM" value="Sn" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UVAC" value="250V" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DISTRI_2-PREIS" value="0,531" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DISTRI_1" value="Reichelt" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DISTRI_2" value="Mouser" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="HERSTELLER-NR" value="3403.0164.11" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="HERSTELLER-NR" value="3403.0172.11" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UMAT" value="Keramik" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="DISTRI_1-NR" value="UMT 0,63A" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="UVAL" value="630mA" x="87.63" y="-23.01875" size="0.6096" layer="27" font="vector" rot="R180" align="center" display="off"/>
-<attribute name="DISTRI_1-PREIS" value="0,37" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DISTRI_1-NR" value="UMT 4,0A" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="UVAL" value="4,00A" x="87.63" y="-23.01875" size="0.6096" layer="27" font="vector" rot="R180" align="center" display="off"/>
+<attribute name="DISTRI_1-PREIS" value="0,46" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UTMAX" value="125°C" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="UVDC" value="125V" x="87.63" y="-23.01875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="80.48625" y="-24.4475" size="0.7112" layer="25" font="vector" rot="R180" align="center"/>
